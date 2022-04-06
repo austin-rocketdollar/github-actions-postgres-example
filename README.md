@@ -7,3 +7,5 @@ Example of a [GitHub Actions](https://b.remarkabl.org/github-actions) workflow t
 
 - [Blog post](https://b.remarkabl.org/3qL5fE7)
 - [Workflow](https://github.com/remarkablemark/github-actions-postgres-example/blob/master/.github/workflows/postgres.yml)
+
+test
